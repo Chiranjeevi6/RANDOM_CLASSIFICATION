@@ -60,6 +60,7 @@ plt.title('Random Classification Data with 2 classes')
 
 OUTPUT:
 
+https://colab.research.google.com/drive/1Aap81wwDfsRIPwvVz4ZYie1ruUV8A2oV?usp=sharing
 
 RESULT:
 
